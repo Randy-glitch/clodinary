@@ -1,0 +1,21 @@
+.container{
+    background-color: cadetblue;
+    
+    height: 1000px;
+}
+.conten {
+    margin: 0 auto;
+}
+.conten input {
+    margin-top: 40%;
+}
+.preview {
+    background-color: aliceblue;
+}
+.card{
+    margin: 3%;
+}
+.p-3 {
+    padding: 10rem!important;
+    padding-top: -10px;
+}
