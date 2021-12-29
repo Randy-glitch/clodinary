@@ -8,6 +8,7 @@
 }
 .conten input {
     margin-top: 40%;
+    background-color: bisque;
 }
 .preview {
     background-color: aliceblue;
@@ -15,3 +16,4 @@
 .card{
     margin: 3%;
 }
+
